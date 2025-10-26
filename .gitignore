@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-src/**/*firebase.jsg
+src/**/*firebase.js
 src/**/*testing.txt
 
 # Editor directories and files
